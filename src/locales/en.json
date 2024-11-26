@@ -1,0 +1,10 @@
+{
+    "login": "Login",
+    "email": "Enter Email",
+    "password": "Password",
+    "sign_in": "Sign in",
+    "admin": "I am an Admin",
+    "language": "Language",
+    "forgot_password": "Forgot password?",
+    "System": "Multiple Choice Systems"
+  }
